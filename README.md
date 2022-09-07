@@ -1,17 +1,14 @@
 # teirei20220831
 
-A new Flutter project.
+8月31日の定例会で実装した機能トレース
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+二本指でズームができる
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1440" alt="スクリーンショット 2022-09-07 15 33 38" src="https://user-images.githubusercontent.com/102783724/188807475-f89c0547-76dc-44e0-b750-b8f5e2d78ac4.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# teirei20220831
+https://user-images.githubusercontent.com/102783724/188807518-6dda9650-fc21-4fb6-bda0-2859a4948d73.mov
+
+
